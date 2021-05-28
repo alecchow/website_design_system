@@ -1,0 +1,56 @@
+h1,
+h2 {
+    margin-left: 10px ;
+}
+
+header {
+    margin: 10px auto ;
+    width: 80% ;
+}
+
+section {
+    border: 1px solid black;
+    margin: 10px auto ;
+    width: 80% ;
+}
+
+div {
+    width: 330px ;
+    display: inline-block;
+    margin: 10px ;
+    border-radius: 5px ;
+}
+
+.colours p {
+    text-align: center;
+    color: whitesmoke;
+}
+
+#colour3 p,
+#colour2 p {
+    color: black;
+}
+
+#colour1 {
+    background-color: #ff0000 ;
+}
+
+#colour2 {
+    background-color: #ffa500 ;
+}
+
+#colour3 {
+    background-color: #ffff00 ;
+}
+
+#colour4 {
+    background-color: #008000 ;
+}
+
+#colour5 {
+    background-color: #0000ff ;
+}
+
+#colour6 {
+    background-color: #4b0082 ;
+}
